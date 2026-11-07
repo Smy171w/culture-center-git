@@ -2,3 +2,8 @@
 .env
 temp/
 .vscode/
+.vs/
+bin/
+obj/
+*.user
+*.suo
